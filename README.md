@@ -89,7 +89,7 @@ Members Department Folder
 Checking Access
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/f65270902f33058928a263ea571b759223c6803b/iam-joiner-operations-folder-access.png)
 
-Comfirm Access
+Confirm Access
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/fd0568e42192c18e4033c32d78d82cc286c6b9e3/iam-joiner-operations-access-confirm.png)
 
 Checking Other Department Access
@@ -107,10 +107,10 @@ Jimmy Carter Account
 Members Department Folder
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/5e390011c490eaecbf711f0115a8c86c06e87884/iam-mover-engineers.png)
 
-Checking Access
-![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/f65270902f33058928a263ea571b759223c6803b/iam-joiner-operations-folder-access.png)
+Move From Operations Department
+![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/e398dbd08dbc1118cc428fc3f5cd9b61c0055f9f/iam-mover-from-operations-folder.png)
 
-Comfirm Access
+Confirm Access
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/fd0568e42192c18e4033c32d78d82cc286c6b9e3/iam-joiner-operations-access-confirm.png)
 
 Checking Other Department Access
