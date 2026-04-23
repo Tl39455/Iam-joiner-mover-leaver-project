@@ -126,7 +126,7 @@ Denied Confirmed
 # Leaver Kathy Brooks from the company account disabling
 
 Kathy Brooks Account Disabled
-![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/e67e8cf35b4c269f3bae9eab5af893f7cab4b5a3/iam-joiner-operations-smitchell-account.png)
+![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/2d2b0ec8bc2f8b03471e8082fcc007c11e6411dc/iam-leaver-disabled.png)
 
 Kathy Brooks Removal From HR Department Folder
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/e67e8cf35b4c269f3bae9eab5af893f7cab4b5a3/iam-joiner-operations-smitchell-account.png)
