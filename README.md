@@ -114,7 +114,7 @@ Checking Access
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/ff3faef23bee207b15feb118fde7de49b8ad8f32/iam-mover-jcarter-engineers-folder-access.png)
 
 Confirm Access
-![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/ff3faef23bee207b15feb118fde7de49b8ad8f32/iam-mover-jcarter-engineers-folder-access.png)
+![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/63c5dca6e4c947d3f7076175816cf859969b4d3b/iam-mover-jcarter-engineers-folder-access-granted.png)
 
 Checking Other Department Access
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/fdfdffc22fadc2ab78786a1ef1b06a1f35c7fbec/iam-joiner-operations-folder-access-engineers.png)
