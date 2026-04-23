@@ -132,7 +132,7 @@ Kathy Brooks Removal From HR Department Folder
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/f91d912e1f725fc68566111408e7b87cd26bfcd1/iam-leaver-hr-remove.png)
 
 Move to Disabled Users Folder
-![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/9bf57075d2c588d381089306126262dbb053616b/iam-joiner-operations-members.png)
+![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/ba6ea41bb502d080c7ed06cfc1e9ef263a4433a8/iam-leaver-disabled-folder.png)
 
 Confirm Login Access Restricted
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/f65270902f33058928a263ea571b759223c6803b/iam-joiner-operations-folder-access.png)
