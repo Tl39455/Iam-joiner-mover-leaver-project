@@ -129,7 +129,7 @@ Kathy Brooks Account Disabled
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/2d2b0ec8bc2f8b03471e8082fcc007c11e6411dc/iam-leaver-disabled.png)
 
 Kathy Brooks Removal From HR Department Folder
-![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/e67e8cf35b4c269f3bae9eab5af893f7cab4b5a3/iam-joiner-operations-smitchell-account.png)
+![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/f91d912e1f725fc68566111408e7b87cd26bfcd1/iam-leaver-hr-remove.png)
 
 Move to Disabled Users Folder
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/9bf57075d2c588d381089306126262dbb053616b/iam-joiner-operations-members.png)
