@@ -104,11 +104,11 @@ Denied Confirmed
 Jimmy Carter Account
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/03df610698591f88da03044bd0a0cf66091a36b4/iam-mover-jimmycarter-account.png)
 
-Members Department Folder
-![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/5e390011c490eaecbf711f0115a8c86c06e87884/iam-mover-engineers.png)
-
 Move From Operations Department
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/e398dbd08dbc1118cc428fc3f5cd9b61c0055f9f/iam-mover-from-operations-folder.png)
+
+Members Department Folder
+![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/5e390011c490eaecbf711f0115a8c86c06e87884/iam-mover-engineers.png)
 
 Confirm Access
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/fd0568e42192c18e4033c32d78d82cc286c6b9e3/iam-joiner-operations-access-confirm.png)
