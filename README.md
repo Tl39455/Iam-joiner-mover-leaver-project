@@ -59,6 +59,7 @@ Examples:
 Each folder was configured using both:
 
 Share permissions
+
 NTFS permissions
 
 This allowed access to be restricted by department and validated through testing.
