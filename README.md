@@ -22,12 +22,12 @@ Organizational Units
 
 # The following OUs were used in this project:
 
-HR
-Finance
-Operations
-Security
-Engineers
-IT
+HR, 
+Finance, 
+Operations, 
+Security, 
+Engineers, 
+IT, 
 Disabled Users
 
 # Security Groups
