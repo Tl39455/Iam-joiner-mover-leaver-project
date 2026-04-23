@@ -104,7 +104,7 @@ Jimmy Carter Account
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/03df610698591f88da03044bd0a0cf66091a36b4/iam-mover-jimmycarter-account.png)
 
 Members Department Folder
-![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/9bf57075d2c588d381089306126262dbb053616b/iam-joiner-operations-members.png)
+![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/b1fb14ee5aacb1aa8ed7c74778e8b009a0d78d17/iam-mover-operations-members.png)
 
 Checking Access
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/f65270902f33058928a263ea571b759223c6803b/iam-joiner-operations-folder-access.png)
