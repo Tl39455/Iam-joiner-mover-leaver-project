@@ -123,22 +123,16 @@ Denied Confirmed
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/f364e5fb11489446db0bfbbd3a4383b7cb8c5497/iam-mover-operations-folder-access-denied.png)
 
 
-# Joiner Sarah Mitchell to the operations department
+# Leaver Kathy Brooks from the company account disabling
 
-Sarah Mitchell Account
+Kathy Brooks Account Disabled
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/e67e8cf35b4c269f3bae9eab5af893f7cab4b5a3/iam-joiner-operations-smitchell-account.png)
 
-Members Department Folder
+Kathy Brooks Removal From HR Department Folder
+![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/e67e8cf35b4c269f3bae9eab5af893f7cab4b5a3/iam-joiner-operations-smitchell-account.png)
+
+Move to Disabled Users Folder
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/9bf57075d2c588d381089306126262dbb053616b/iam-joiner-operations-members.png)
 
-Checking Access
+Confirm Login Access Restricted
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/f65270902f33058928a263ea571b759223c6803b/iam-joiner-operations-folder-access.png)
-
-Comfirm Access
-![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/fd0568e42192c18e4033c32d78d82cc286c6b9e3/iam-joiner-operations-access-confirm.png)
-
-Checking Other Department Access
-![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/fdfdffc22fadc2ab78786a1ef1b06a1f35c7fbec/iam-joiner-operations-folder-access-engineers.png)
-
-Denied Confirmed
-![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/5d6efc99d21292aea8cde24868538af28777bebb/iam-joiner-engineers-access-denied.png)
