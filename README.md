@@ -110,8 +110,11 @@ Move From Operations Department
 Members Department Folder
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/5e390011c490eaecbf711f0115a8c86c06e87884/iam-mover-engineers.png)
 
+Checking Access
+![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/ff3faef23bee207b15feb118fde7de49b8ad8f32/iam-mover-jcarter-engineers-folder-access.png)
+
 Confirm Access
-![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/fd0568e42192c18e4033c32d78d82cc286c6b9e3/iam-joiner-operations-access-confirm.png)
+![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/ff3faef23bee207b15feb118fde7de49b8ad8f32/iam-mover-jcarter-engineers-folder-access.png)
 
 Checking Other Department Access
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/fdfdffc22fadc2ab78786a1ef1b06a1f35c7fbec/iam-joiner-operations-folder-access-engineers.png)
