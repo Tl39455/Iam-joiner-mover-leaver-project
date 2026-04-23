@@ -2,6 +2,16 @@
 
 This project demonstrates a completed Identity and Access Management (IAM) workflow in my Active Directory home lab using the terrylab.local domain. I designed and tested a Joiner / Mover / Leaver (JML) process to simulate how a real company manages user provisioning, role changes, and secure offboarding.
 
+## Troubleshooting and Issues Resolved
+
+This project included several troubleshooting steps that strengthened the overall implementation:
+
+- Corrected shared folder path and hostname issues affecting network access
+- Recreated and verified missing department folders and shares
+- Removed inherited and overly broad permissions that allowed unauthorized access
+- Validated correct role reassignment after mover events by updating group membership and retesting access
+- Confirmed least-privilege enforcement through successful authorized access and denied unauthorized access
+
 # Environment
 Domain: terrylab.local
 Platform: Windows Server Active Directory
@@ -135,4 +145,6 @@ Move to Disabled Users Folder
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/ba6ea41bb502d080c7ed06cfc1e9ef263a4433a8/iam-leaver-disabled-folder.png)
 
 Confirm Login Access Restricted
-![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/f65270902f33058928a263ea571b759223c6803b/iam-joiner-operations-folder-access.png)
+![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/02ba21c8503e01e46a9470bd9a45987c015bc964/iam-leaver-disabled-login.png)
+
+
