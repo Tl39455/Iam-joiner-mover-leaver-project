@@ -120,7 +120,7 @@ Checking Other Department Access
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/adf53b83f0feb4bee235e5ebf99a4f2f00abf0b3/iam-mover-operations-folder-access.png)
 
 Denied Confirmed
-![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/5d6efc99d21292aea8cde24868538af28777bebb/iam-joiner-engineers-access-denied.png)
+![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/f364e5fb11489446db0bfbbd3a4383b7cb8c5497/iam-mover-operations-folder-access-denied.png)
 
 
 # Joiner Sarah Mitchell to the operations department
