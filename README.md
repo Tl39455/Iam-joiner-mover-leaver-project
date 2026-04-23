@@ -36,11 +36,11 @@ Department access was managed through security groups rather than assigning perm
 
 Groups used:
 
-HR_SG
-Finance_SG
-Operations_SG
-Security_SG
-Engineers_SG
+HR_SG, 
+Finance_SG, 
+Operations_SG, 
+Security_SG, 
+Engineers_SG, 
 IT_SG
 
 # Shared Folders
