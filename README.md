@@ -98,13 +98,14 @@ Checking Other Department Access
 Denied Confirmed
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/5d6efc99d21292aea8cde24868538af28777bebb/iam-joiner-engineers-access-denied.png)
 
+
 # Mover Jimmy Carter from the Security department to the Engineers department
 
 Jimmy Carter Account
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/03df610698591f88da03044bd0a0cf66091a36b4/iam-mover-jimmycarter-account.png)
 
 Members Department Folder
-![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/b1fb14ee5aacb1aa8ed7c74778e8b009a0d78d17/iam-mover-operations-members.png)
+![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/5e390011c490eaecbf711f0115a8c86c06e87884/iam-mover-engineers.png)
 
 Checking Access
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/f65270902f33058928a263ea571b759223c6803b/iam-joiner-operations-folder-access.png)
@@ -117,6 +118,7 @@ Checking Other Department Access
 
 Denied Confirmed
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/5d6efc99d21292aea8cde24868538af28777bebb/iam-joiner-engineers-access-denied.png)
+
 
 # Joiner Sarah Mitchell to the operations department
 
