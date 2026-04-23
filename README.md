@@ -80,7 +80,7 @@ The joiner account was successfully provisioned with the correct department acce
 
 # Joiner Sarah Mitchell to the operations department
 
-![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/f65270902f33058928a263ea571b759223c6803b/iam-joiner-operations-folder-access.png)
+![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/9bf57075d2c588d381089306126262dbb053616b/iam-joiner-operations-members.png)
 
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/f65270902f33058928a263ea571b759223c6803b/iam-joiner-operations-folder-access.png)
 
