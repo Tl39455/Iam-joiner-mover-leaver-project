@@ -88,4 +88,4 @@ The joiner account was successfully provisioned with the correct department acce
 
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/fdfdffc22fadc2ab78786a1ef1b06a1f35c7fbec/iam-joiner-operations-folder-access-engineers.png)
 
-![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/fdfdffc22fadc2ab78786a1ef1b06a1f35c7fbec/iam-joiner-operations-folder-access-engineers.png)
+![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/5d6efc99d21292aea8cde24868538af28777bebb/iam-joiner-engineers-access-denied.png)
