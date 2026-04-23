@@ -78,7 +78,9 @@ Result
 
 The joiner account was successfully provisioned with the correct department access and denied access to unauthorized resources.
 
-![Joiner Access for Sarah Mitchell](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/f65270902f33058928a263ea571b759223c6803b/iam-joiner-operations-folder-access.png)
+# Joiner Sarah Mitchell to the operations department
+
+![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/f65270902f33058928a263ea571b759223c6803b/iam-joiner-operations-folder-access.png)
 
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/f65270902f33058928a263ea571b759223c6803b/iam-joiner-operations-folder-access.png)
 
