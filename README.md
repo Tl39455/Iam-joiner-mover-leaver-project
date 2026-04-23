@@ -101,7 +101,7 @@ Denied Confirmed
 # Mover Jimmy Carter from the Security department to the Engineers department
 
 Jimmy Carter Account
-![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/e67e8cf35b4c269f3bae9eab5af893f7cab4b5a3/iam-joiner-operations-smitchell-account.png)
+![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/03df610698591f88da03044bd0a0cf66091a36b4/iam-mover-jimmycarter-account.png)
 
 Members Department Folder
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/9bf57075d2c588d381089306126262dbb053616b/iam-joiner-operations-members.png)
