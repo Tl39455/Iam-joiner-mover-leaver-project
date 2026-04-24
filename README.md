@@ -128,7 +128,7 @@ Checking Other Department Access
 Denied Confirmed
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/5d6efc99d21292aea8cde24868538af28777bebb/iam-joiner-engineers-access-denied.png)
 
-#Mover Workflow
+# Mover Workflow
 
 Scenario
 
@@ -170,7 +170,7 @@ Checking Other Department Access
 Denied Confirmed
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/f364e5fb11489446db0bfbbd3a4383b7cb8c5497/iam-mover-operations-folder-access-denied.png)
 
-#Leaver Workflow
+# Leaver Workflow
 
 Scenario
 
