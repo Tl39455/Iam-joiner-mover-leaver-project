@@ -92,11 +92,17 @@ Scenario
 A new employee was onboarded and assigned access based on department role.
 
 Tasks Completed
+
 Created a new Active Directory user account
+
 Placed the user into the correct departmental OU
+
 Set a temporary password
+
 Added the user to the correct department security group
+
 Validated successful access to the authorized department folder
+
 Confirmed the user could not access unauthorized folders
 Result
 
