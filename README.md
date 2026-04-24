@@ -91,7 +91,7 @@ Scenario
 
 A new employee was onboarded and assigned access based on department role.
 
-Tasks Completed
+## Tasks Completed
 
 Created a new Active Directory user account
 
