@@ -97,7 +97,6 @@ Created a new Active Directory user account
 
 Placed the user into the correct departmental OU
 
-Set a temporary password
 
 Added the user to the correct department security group
 
