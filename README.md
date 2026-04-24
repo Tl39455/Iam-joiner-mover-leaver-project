@@ -53,10 +53,15 @@ Department resources were created as shared folders and permissioned through sec
 Examples:
 
 \\WIN-LP2H1C6RF94\HR
+
 \\WIN-LP2H1C6RF94\Finance
+
 \\WIN-LP2H1C6RF94\Operations
+
 \\WIN-LP2H1C6RF94\Security
+
 \\WIN-LP2H1C6RF94\Engineers
+
 \\WIN-LP2H1C6RF94\IT
 
 Each folder was configured using both:
@@ -79,7 +84,7 @@ Demonstrate secure account deprovisioning
 # Joiner Workflow
 Scenario
 
-A new employee was onboarded and assigned access based on department role.
+A new employee (Sarah Mitchell) was onboarded and assigned access based on department role.
 
 Tasks Completed
 Created a new Active Directory user account
@@ -92,7 +97,7 @@ Result
 
 The joiner account was successfully provisioned with the correct department access and denied access to unauthorized resources.
 
-# Joiner Sarah Mitchell to the operations department
+# Joiner Sarah Mitchell to the Operations department
 
 Sarah Mitchell Account
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/e67e8cf35b4c269f3bae9eab5af893f7cab4b5a3/iam-joiner-operations-smitchell-account.png)
@@ -112,6 +117,24 @@ Checking Other Department Access
 Denied Confirmed
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/5d6efc99d21292aea8cde24868538af28777bebb/iam-joiner-engineers-access-denied.png)
 
+#Mover Workflow
+
+Scenario
+
+A user was transferred from the Operations department to the Engineers department.
+
+Tasks Completed
+
+* Updated the user’s department assignment in Active Directory
+* Removed the user from the old department security group
+* Added the user to the new department security group
+* Validated that old department access was removed
+* Validated that new department access was granted
+* Confirmed the user could access the Engineers share but not other department shares
+
+Result
+
+The mover workflow successfully demonstrated access reassignment based on role change. The transferred user gained access to the Engineers folder and was denied access to unauthorized department resources.
 
 # Mover Jimmy Carter from the Security department to the Engineers department
 
@@ -136,6 +159,23 @@ Checking Other Department Access
 Denied Confirmed
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/f364e5fb11489446db0bfbbd3a4383b7cb8c5497/iam-mover-operations-folder-access-denied.png)
 
+#Leaver Workflow
+
+Scenario
+
+A terminated employee account was securely deprovisioned.
+
+Tasks Completed
+
+* Disabled the user account
+* Removed the user from department security groups
+* Moved the account to the Disabled Users OU
+* Verified that the account could no longer be used to access resources
+* Preserved account status for administrative tracking
+
+Result
+
+The leaver workflow successfully demonstrated secure offboarding and access removal.
 
 # Leaver Kathy Brooks from the company account disabling
 
