@@ -146,7 +146,7 @@ Result
 
 The mover workflow successfully demonstrated access reassignment based on role change. The transferred user gained access to the Engineers folder and was denied access to unauthorized department resources.
 
-# Mover Jimmy Carter from the Security department to the Engineers department
+# Mover Jimmy Carter from the Operations department to the Engineers department
 
 Jimmy Carter Account
 ![](https://github.com/Tl39455/Iam-joiner-mover-leaver-project/blob/03df610698591f88da03044bd0a0cf66091a36b4/iam-mover-jimmycarter-account.png)
