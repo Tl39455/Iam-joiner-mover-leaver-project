@@ -75,10 +75,15 @@ This allowed access to be restricted by department and validated through testing
 # Project Objectives
 
 Build a structured Active Directory IAM environment
+
 Create department-based OUs and security groups
+
 Simulate employee onboarding, transfers, and offboarding
+
 Apply role-based access control through group permissions
+
 Validate least-privilege access to shared folders
+
 Demonstrate secure account deprovisioning
 
 # Joiner Workflow
