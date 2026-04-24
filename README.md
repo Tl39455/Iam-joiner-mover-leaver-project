@@ -14,8 +14,11 @@ This project included several troubleshooting steps that strengthened the overal
 
 # Environment
 Domain: terrylab.local
+
 Platform: Windows Server Active Directory
+
 Project Type: Identity and Access Management
+
 Focus Areas: User lifecycle management, role-based access control, access validation, secure deprovisioning
 
 Organizational Units
