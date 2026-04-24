@@ -91,7 +91,7 @@ Scenario
 
 A new employee was onboarded and assigned access based on department role.
 
-## Tasks Completed
+### Tasks Completed
 
 Created a new Active Directory user account
 
@@ -134,7 +134,7 @@ Scenario
 
 A user was transferred from the Operations department to the Engineers department.
 
-Tasks Completed
+### Tasks Completed
 
 * Updated the user’s department assignment in Active Directory
 * Removed the user from the old department security group
@@ -176,7 +176,7 @@ Scenario
 
 A terminated employee account was securely deprovisioned.
 
-Tasks Completed
+### Tasks Completed
 
 * Disabled the user account
 * Removed the user from department security groups
